@@ -19,4 +19,7 @@ public class Calculator {
     public int sub() {
         return first - second;
     }
+    public int reverseDiv() {
+        return second / first;
+    }
 }
