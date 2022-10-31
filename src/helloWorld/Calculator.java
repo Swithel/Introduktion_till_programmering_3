@@ -13,4 +13,7 @@ public class Calculator {
     public int add() {
         return first + second;
     }
+    public int mul() {
+        return first * second;
+    }
 }
