@@ -13,12 +13,15 @@ public class Calculator {
     public int add() {
         return first + second;
     }
+
     public int mul() {
         return first * second;
     }
+
     public int sub() {
         return first - second;
     }
+
     public int reverseDiv() {
         return second / first;
     }
